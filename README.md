@@ -1,5 +1,5 @@
 
-# Venda De Camisas Online!
+# Venda De Camisas On-line!
 
 O projeto conta com todas as informações e funções para um e-commerce de vendas de camisa.
  
